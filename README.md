@@ -1,2 +1,1 @@
-test2:x
-
+test2
